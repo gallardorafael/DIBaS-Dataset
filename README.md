@@ -3,8 +3,8 @@ As the web page listed in the original paper is down, we are (provisionaly) prov
 
 ## Links to each specie (as the original web page):
 
-1.1 https://doctoral.matinf.uj.edu.pl/database/dibas/Acinetobacter.baumanii.zip -- Acinetobacter baumanii
-2.1 https://doctoral.matinf.uj.edu.pl/database/dibas/Actinomyces.israeli.zip -- Actinomyces israelii
+1. https://doctoral.matinf.uj.edu.pl/database/dibas/Acinetobacter.baumanii.zip -- Acinetobacter baumanii
+2. https://doctoral.matinf.uj.edu.pl/database/dibas/Actinomyces.israeli.zip -- Actinomyces israelii
 3.1 https://doctoral.matinf.uj.edu.pl/database/dibas/Bacteroides.fragilis.zip -- Bacteroides fragilis
 4.0 https://doctoral.matinf.uj.edu.pl/database/dibas/Bifidobacterium.spp.zip -- Bifidobacterium spp.
 5.1 https://doctoral.matinf.uj.edu.pl/database/dibas/Candida.albicans.zip -- Candida albicans
