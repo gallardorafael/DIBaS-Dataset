@@ -4,6 +4,8 @@ As the web page listed in the [original paper](https://journals.plos.org/plosone
 ## Original web page (if you want to do a sanity check) (still down on March 26, 2021):
 - [DIBaS Dataset](http://misztal.edu.pl/software/databases/dibas)
 
+Please, send a PR if you know if the web page is up again.
+
 ## Links to each species (as the original web page):
 
 - Acinetobacter baumanii: https://doctoral.matinf.uj.edu.pl/database/dibas/Acinetobacter.baumanii.zip
