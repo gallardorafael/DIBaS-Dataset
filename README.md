@@ -1,7 +1,8 @@
 # DIBaS-Dataset
 As the web page listed in the original paper is down, we are (provisionaly) providing links to the files of the Digital Image of Bacterial Species (DIBaS) dataset. We do not own the rights of the data.
 
-Links to each specie (as the original web page):
+## Links to each specie (as the original web page):
+
 1.1 https://doctoral.matinf.uj.edu.pl/database/dibas/Acinetobacter.baumanii.zip -- Acinetobacter baumanii
 2.1 https://doctoral.matinf.uj.edu.pl/database/dibas/Actinomyces.israeli.zip -- Actinomyces israelii
 3.1 https://doctoral.matinf.uj.edu.pl/database/dibas/Bacteroides.fragilis.zip -- Bacteroides fragilis
@@ -36,8 +37,10 @@ Links to each specie (as the original web page):
 19.1 https://doctoral.matinf.uj.edu.pl/database/dibas/Streptococcus.agalactiae.zip -- Streptococcus agalactiae
 20.0 https://doctoral.matinf.uj.edu.pl/database/dibas/Veionella.zip -- Veionella spp.
 
-One link with all species:
+## One link with all species:
+
 1. [Google Drive](https://drive.google.com/file/d/1wCNmQMA3pdHeU1rTrHeLehqIYZ2rF_uy/view?usp=sharing)
 
-Special thanks to:
+## Special thanks to:
+
 1. [Shahin Darvishpoor](https://www.researchgate.net/post/Does_anyone_have_a_copy_of_the_DIBaS_dataset)
