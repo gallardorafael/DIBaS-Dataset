@@ -1,6 +1,9 @@
 # DIBaS-Dataset
 As the web page listed in the [original paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554) is down, we are (provisionaly) providing links to the files of the Digital Image of Bacterial Species (DIBaS) dataset. *We do not own the rights of the data.*
 
+## Original web page (if you want to do a sanity check) (still down on March 26, 2021):
+- [DIBaS Dataset](http://misztal.edu.pl/software/databases/dibas)
+
 ## Links to each species (as the original web page):
 
 - Acinetobacter baumanii: https://doctoral.matinf.uj.edu.pl/database/dibas/Acinetobacter.baumanii.zip
