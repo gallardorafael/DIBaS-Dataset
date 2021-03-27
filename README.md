@@ -49,3 +49,17 @@ Please, send a PR if you know if the web page is up again.
 ## Special thanks to:
 
 - [Shahin Darvishpoor](https://www.researchgate.net/post/Does_anyone_have_a_copy_of_the_DIBaS_dataset)
+
+## If you use this data, please cite the original authors:
+```
+@article{zielinski2017,
+	title={Deep learning approach to bacterial colony classification},
+	author={Zieli{\'n}ski, Bartosz and Plichta, Anna and Misztal, Krzysztof and Spurek, Przemys{\l}aw and Brzychczy-W{\l}och, Monika and Ocho{\'n}ska, Dorota},
+	journal={PloS One},
+	volume={12},
+	number={9},
+	pages={e0184554},
+	year={2017},
+	publisher={Public Library of Science San Francisco, CA USA}
+}
+```
