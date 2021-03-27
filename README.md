@@ -1,5 +1,5 @@
 # DIBaS-Dataset
-As the web page listed in the original paper is down, we are (provisionaly) providing links to the files of the Digital Image of Bacterial Species (DIBaS) dataset. *We do not own the rights of the data.*
+As the web page listed in the [original paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554) is down, we are (provisionaly) providing links to the files of the Digital Image of Bacterial Species (DIBaS) dataset. *We do not own the rights of the data.*
 
 ## Links to each specie (as the original web page):
 
