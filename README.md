@@ -1,10 +1,8 @@
+# UPDATE April 14, 2021:
+The webpage is up and working again: [DIBaS Dataset](http://misztal.edu.pl/software/databases/dibas/)
+
 # DIBaS-Dataset
 As the web page listed in the [original paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554) is down, we are (provisionaly) providing links to the files of the Digital Image of Bacterial Species (DIBaS) dataset. *We do not own the rights of the data.*
-
-## Original web page (if you want to do a sanity check) (still down on March 26, 2021):
-- [DIBaS Dataset](http://misztal.edu.pl/software/databases/dibas)
-
-Please, send a PR if you know if the web page is up again.
 
 ## Links to each species (as the original web page):
 
