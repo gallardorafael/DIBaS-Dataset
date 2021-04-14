@@ -40,14 +40,6 @@ As the web page listed in the [original paper](https://journals.plos.org/plosone
 - Streptococcus agalactiae: https://doctoral.matinf.uj.edu.pl/database/dibas/Streptococcus.agalactiae.zip
 - Veionella spp.: https://doctoral.matinf.uj.edu.pl/database/dibas/Veionella.zip
 
-## All in one link:
-
-- [Google Drive](https://drive.google.com/file/d/1wCNmQMA3pdHeU1rTrHeLehqIYZ2rF_uy/view?usp=sharing)
-
-## Special thanks to:
-
-- [Shahin Darvishpoor](https://www.researchgate.net/post/Does_anyone_have_a_copy_of_the_DIBaS_dataset)
-
 ## If you use this data, please cite the original authors:
 ```
 @article{zielinski2017,
