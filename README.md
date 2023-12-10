@@ -1,8 +1,7 @@
-# UPDATE April 14, 2021:
-The webpage is up and working again: [DIBaS Dataset](http://misztal.edu.pl/software/databases/dibas/)
-
 # DIBaS-Dataset
 As the web page listed in the [original paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184554) is down, we are (provisionaly) providing links to the files of the Digital Image of Bacterial Species (DIBaS) dataset. *We do not own the rights of the data.*
+
+This repository is only a workaround to get the data from the original source.
 
 ## Links to each species (as the original web page):
 
@@ -40,6 +39,23 @@ As the web page listed in the [original paper](https://journals.plos.org/plosone
 - Streptococcus agalactiae: https://doctoral.matinf.uj.edu.pl/database/dibas/Streptococcus.agalactiae.zip
 - Veionella spp.: https://doctoral.matinf.uj.edu.pl/database/dibas/Veionella.zip
 
+## If you want to check our work:
+We published a paper using this data, you may want to check our work in the following repository: [Efficient and Mobile Deep Learning Architectures for Fast Identification of Bacterial Strains in Resource-Constrained Devices: Code and instructions.](https://github.com/gallardorafael/EfficientMobileDL_Bacterial)
+
+The preprint of the paper is available on [arXiv](https://arxiv.org/abs/2106.06505).
+```
+@article{gallardo2022efficient,
+  title={Efficient deep learning architectures for fast identification of bacterial strains in resource-constrained devices},
+  author={Gallardo Garc{\'\i}a, Rafael and Jarqu{\'\i}n Rodr{\'\i}guez, Sof{\'\i}a and Beltr{\'a}n Mart{\'\i}nez, Beatriz and Hern{\'a}ndez Gracidas, Carlos and Mart{\'\i}nez Torres, Rodolfo},
+  journal={Multimedia Tools and Applications},
+  volume={81},
+  number={28},
+  pages={39915--39944},
+  year={2022},
+  publisher={Springer}
+}
+```
+
 ## If you use this data, please cite the original authors:
 ```
 @article{zielinski2017,
@@ -53,3 +69,9 @@ As the web page listed in the [original paper](https://journals.plos.org/plosone
 	publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
+
+# UPDATE December 9, 2023: 
+The original webpage is still failing, so I assume that it is no longer being maintained, however, the links to the species are still up. You can use those. 
+
+# UPDATE April 14, 2021:
+The webpage is up and working again: [DIBaS Dataset](http://misztal.edu.pl/software/databases/dibas/)
